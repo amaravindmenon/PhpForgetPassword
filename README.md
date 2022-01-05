@@ -1,6 +1,7 @@
 # PhpForgetPassword
 
-PHP FORGET PASSWORD PAGE
+PHP FORGET PASSWORD PAGE AND SEND MAIL
+
 
 install composer
 
